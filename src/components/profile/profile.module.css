@@ -1,0 +1,32 @@
+.content{
+    display: grid;
+    grid-template-areas: 
+    "a b"
+    "c c";
+    align-items: center;
+    row-gap: 4px;
+}
+
+.nameSet{
+    grid-area: a;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 34px;
+    color: #666666;
+}
+
+.name{
+    color: black;
+}
+
+.changeStatus{
+    grid-area: b;
+    font-size: 12px;
+    line-height: 22px;
+    color: #0C77BB;
+}
+
+.status{
+    grid-area: c;
+    padding-left: 224px
+}
