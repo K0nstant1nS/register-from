@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/K0nstant1nS/register-from/static/css/main.fce58217.css",
+    "main.js": "/K0nstant1nS/register-from/static/js/main.f7e8c172.js",
+    "index.html": "/K0nstant1nS/register-from/index.html",
+    "main.fce58217.css.map": "/K0nstant1nS/register-from/static/css/main.fce58217.css.map",
+    "main.f7e8c172.js.map": "/K0nstant1nS/register-from/static/js/main.f7e8c172.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fce58217.css",
+    "static/js/main.f7e8c172.js"
+  ]
+}
